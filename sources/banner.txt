@@ -1,0 +1,23 @@
+// ==UserScript==
+// @name         hi098123-tool-cracker
+// @encoding     utf-8
+// @namespace    https://github.com/List-KR/hi098123-tool-cracker
+// @homepageURL  https://github.com/List-KR/hi098123-tool-cracker
+// @supportURL   https://github.com/List-KR/hi098123-tool-cracker/issues
+// @updateURL    https://cdn.jsdelivr.net/gh/List-KR/hi098123-tool-cracker@latest/hi098123-tool-cracker.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/List-KR/hi098123-tool-cracker@latest/hi098123-tool-cracker.user.js
+// @license      MIT
+//
+// @version      1.0.0
+// @author       PiQuark6046 and contributors
+//
+// @match        https://t.hi098123.com/*
+//
+// @description        hi098123-tool-cracker blocks anti-adblock script at t.hi098123.com
+// @description:ko     hi098123-tool-cracker는 t.hi098123.com에 있는 안티-애드블록 스크립트를 제거합니다
+//
+// @grant        unsafeWindow
+// @run-at       document-start
+// @inject-into  page
+// ==/UserScript==
+// Used libraries:
