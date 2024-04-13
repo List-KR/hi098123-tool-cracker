@@ -11,7 +11,7 @@
 // @version      1.0.0
 // @author       PiQuark6046 and contributors
 //
-// @match        https://namu.wiki/*
+// @match        https://t.hi098123.com/*
 //
 // @description        hi098123-tool-cracker blocks anti-adblock script at t.hi098123.com
 // @description:ko     hi098123-tool-cracker는 t.hi098123.com에 있는 안티-애드블록 스크립트를 제거합니다
